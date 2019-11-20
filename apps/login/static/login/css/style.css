@@ -1,0 +1,85 @@
+.container{
+    margin-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+.jumbotron{
+    margin-top: 20px;
+}
+
+.quote_board{
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.quote_board ul{
+    list-style: none;
+    border: 1px black solid;
+    padding-left: 5px;
+    margin-bottom: 0px;
+}
+
+.quote_board li{
+    padding: 10px;
+}
+
+.fave_quote_board{
+    border: 2px solid #b4a7d6;
+    padding: 10px;
+}
+
+.fave_quote_board ul{
+    list-style: none;
+    border: 1px black solid;
+    padding-left: 5px;
+    margin-bottom: 0px;
+}
+
+.fave_quote_board li{
+    padding: 10px;
+}
+.fave_quote_board p{
+    margin: 0px;
+}
+
+.btn-link{
+    padding: 0px;
+    display: inline-block;
+}
+
+.btn-light{
+    background-color: #b4a7d6;
+    color: white;
+    border: none;
+}
+
+.quote_form{
+    display: block;
+    border: 1px black solid;
+    padding: 10px;
+}
+
+.btn-primary{
+    background-color: #f8f9fa;
+    border: 1px solid black;
+    color: black;
+}
+
+a{
+    color: #3d78ac;
+}
+
+.btn-link{
+    color: #3d78ac;
+}
+
+.jumbotron li{
+    list-style: none;
+}
+
+.jumbotron ul{
+    padding-left: 0px;
+}
